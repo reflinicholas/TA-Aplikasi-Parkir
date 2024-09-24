@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Halaman-1" id="XG3hFroaC5K8w9AwYnYV">
+    <mxGraphModel dx="999" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2SvpVvAqhI3jUcdmUAXf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-2" target="mQdIfh7F4Sl3Ra8JJt1q-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="340" />
+              <mxPoint x="225" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SvpVvAqhI3jUcdmUAXf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-2" target="mQdIfh7F4Sl3Ra8JJt1q-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="340" />
+              <mxPoint x="445" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-2" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-7" target="mQdIfh7F4Sl3Ra8JJt1q-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-7" value="&lt;div&gt;Aplikasi menerima data dari&amp;nbsp; Firebase&lt;/div&gt;-Data posisi informasi slot parkir&amp;nbsp; pada alamat: sensor/letak n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="380" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-10" target="mQdIfh7F4Sl3Ra8JJt1q-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="610" />
+              <mxPoint x="445" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-10" target="mQdIfh7F4Sl3Ra8JJt1q-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-10" value="Data letak n = true atau false?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="490" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-12" target="mQdIfh7F4Sl3Ra8JJt1q-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-12" value="Posisi slot parkir tersedia berwarna hijau" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="630" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="730" />
+              <mxPoint x="445" y="730" />
+            </Array>
+            <mxPoint x="445" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-14" value="Posisi slot parkir tersedia berwarna merah" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="505" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-15" value="true" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-16" value="false" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-18" target="mQdIfh7F4Sl3Ra8JJt1q-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-18" value="Aplikasi menerima data dari firebase&amp;nbsp;&lt;div&gt;-Data jumlah slot parkir tersedia&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;pada alamat: slottersedia n&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="380" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mQdIfh7F4Sl3Ra8JJt1q-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="225" y="730" />
+            </Array>
+            <mxPoint x="445" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-20" value="Menampilkan angka jumlah slot parkir tersedia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mQdIfh7F4Sl3Ra8JJt1q-21" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="405" y="760" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

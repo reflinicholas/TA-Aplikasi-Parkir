@@ -1,0 +1,77 @@
+<mxfile host="Electron" modified="2023-12-29T02:18:21.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="-laK7Hoi46BmYZZDHylf" version="22.0.2" type="device">
+  <diagram name="Page-1" id="IMa0Tohj6PWFbo-ZKqIL">
+    <mxGraphModel dx="864" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" source="OFjwdjrZ_4uR9f9T8cYF-1" target="OFjwdjrZ_4uR9f9T8cYF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-1" value="&lt;font color=&quot;#000000&quot;&gt;Sensor Ultrasonik&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" source="OFjwdjrZ_4uR9f9T8cYF-2" target="OFjwdjrZ_4uR9f9T8cYF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-2" value="&lt;font color=&quot;#000000&quot;&gt;Mikrokontroler ESP32&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" source="OFjwdjrZ_4uR9f9T8cYF-3" target="OFjwdjrZ_4uR9f9T8cYF-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-3" value="&lt;font color=&quot;#000000&quot;&gt;Pengiriman Data sensor Ultrasonik berupa true, false, perhitungan slot tersedia dan terpakai&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="260" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" source="OFjwdjrZ_4uR9f9T8cYF-4" target="OFjwdjrZ_4uR9f9T8cYF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-4" value="&lt;font color=&quot;#000000&quot;&gt;Adaptor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="360" as="sourcePoint" />
+            <mxPoint x="70" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="230" />
+              <mxPoint x="260" y="230" />
+              <mxPoint x="260" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-6" value="&lt;font color=&quot;#000000&quot;&gt;Input&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="135" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="230" />
+              <mxPoint x="920" y="230" />
+              <mxPoint x="920" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" source="OFjwdjrZ_4uR9f9T8cYF-11" target="OFjwdjrZ_4uR9f9T8cYF-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#000000;" parent="1" source="OFjwdjrZ_4uR9f9T8cYF-11" target="OFjwdjrZ_4uR9f9T8cYF-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-11" value="&lt;font color=&quot;#000000&quot;&gt;Database&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="285" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-13" value="&lt;font color=&quot;#000000&quot;&gt;Google Sheet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="790" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-14" value="&lt;font color=&quot;#000000&quot;&gt;Aplikasi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="790" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OFjwdjrZ_4uR9f9T8cYF-17" value="&lt;font color=&quot;#000000&quot;&gt;Output&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="650" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

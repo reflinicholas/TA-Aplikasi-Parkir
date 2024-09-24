@@ -1,0 +1,33 @@
+<mxfile host="Electron" modified="2024-03-15T02:04:55.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="UyPhFhZNaxcvW-C6mQez" version="22.0.2" type="device">
+  <diagram name="Page-1" id="lI6IWLs3dIfjDCuOqUMH">
+    <mxGraphModel dx="864" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WqOHb7WDYTEGpShtpLHf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="WqOHb7WDYTEGpShtpLHf-2" target="WqOHb7WDYTEGpShtpLHf-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqOHb7WDYTEGpShtpLHf-2" value="&lt;font color=&quot;#000000&quot;&gt;Objek&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqOHb7WDYTEGpShtpLHf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="WqOHb7WDYTEGpShtpLHf-4" target="WqOHb7WDYTEGpShtpLHf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WqOHb7WDYTEGpShtpLHf-4" value="&lt;font color=&quot;#000000&quot;&gt;Terdeteksi Sensor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqOHb7WDYTEGpShtpLHf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="WqOHb7WDYTEGpShtpLHf-5" target="WqOHb7WDYTEGpShtpLHf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WqOHb7WDYTEGpShtpLHf-5" value="&lt;font color=&quot;#000000&quot;&gt;Terproses oleh mikrokontroler&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqOHb7WDYTEGpShtpLHf-6" value="&lt;font color=&quot;#000000&quot;&gt;Menampilkan informasi ketersediaan slot parkir&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
